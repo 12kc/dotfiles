@@ -1,0 +1,3 @@
+./.fehbg
+polybar -r
+gnome-keyring-daemon

@@ -1,0 +1,7 @@
+[font]
+size = 9
+normal = { family = "Scientifica" , style = "Regular"}
+[window]
+padding = { x = 10, y = 10 }
+dynamic_padding = true
+
